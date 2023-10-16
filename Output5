@@ -1,0 +1,194 @@
+Starting Simulation
+00:02 L6 Customer No L601 arrived
+00:02 L1 Customer No L101 arrived
+00:02 L3 Customer No L301 arrived
+00:02 L6 Serving Customer No L601 with response time of 0
+00:02 L3 Customer No L302 arrived
+00:02 L1 Serving Customer No L101 with response time of 0
+00:02 L3 Serving Customer No L301 with response time of 0
+00:04 L2 Customer No L201 arrived
+00:04 L2 Serving Customer No L201 with response time of 0
+00:05 M2 Customer No M201 arrived
+00:05 M2 Serving Customer No M201 with response time of 0
+00:06 L1 Customer No L101 assigned seat 9,9 with turn around time of 6
+00:07 L4 Customer No L401 arrived
+00:07 L4 Serving Customer No L401 with response time of 0
+00:07 L3 Customer No L301 assigned seat 9,8 with turn around time of 7
+00:08 L5 Customer No L501 arrived
+00:08 M2 Customer No M201 assigned seat 5,0 with turn around time of 8
+00:08 L3 Serving Customer No L302 with response time of 6
+00:08 L5 Serving Customer No L501 with response time of 0
+00:09 L6 Customer No L601 assigned seat 9,7 with turn around time of 9
+00:10 L2 Customer No L201 assigned seat 9,6 with turn around time of 10
+00:11 L4 Customer No L402 arrived
+00:12 L3 Customer No L303 arrived
+00:12 L4 Customer No L403 arrived
+00:13 L3 Customer No L302 assigned seat 9,5 with turn around time of 13
+00:14 L2 Customer No L202 arrived
+00:14 L2 Serving Customer No L202 with response time of 0
+00:14 L5 Customer No L501 assigned seat 9,4 with turn around time of 14
+00:14 L3 Serving Customer No L303 with response time of 2
+00:14 L4 Customer No L401 assigned seat 9,3 with turn around time of 14
+00:15 M3 Customer No M301 arrived
+00:15 L4 Serving Customer No L402 with response time of 4
+00:15 M3 Serving Customer No M301 with response time of 0
+00:16 M1 Customer No M101 arrived
+00:16 M1 Serving Customer No M101 with response time of 0
+00:18 M3 Customer No M301 assigned seat 5,1 with turn around time of 18
+00:20 M2 Customer No M202 arrived
+00:20 M2 Serving Customer No M202 with response time of 0
+00:20 L2 Customer No L202 assigned seat 9,2 with turn around time of 20
+00:20 M1 Customer No M101 assigned seat 5,2 with turn around time of 20
+00:20 L3 Customer No L303 assigned seat 9,1 with turn around time of 20
+00:21 L1 Customer No L102 arrived
+00:21 L1 Serving Customer No L102 with response time of 0
+00:22 L4 Customer No L402 assigned seat 9,0 with turn around time of 22
+00:22 L3 Customer No L304 arrived
+00:22 L3 Serving Customer No L304 with response time of 0
+00:23 M3 Customer No M302 arrived
+00:23 L4 Serving Customer No L403 with response time of 11
+00:23 M3 Serving Customer No M302 with response time of 0
+00:24 M1 Customer No M102 arrived
+00:24 M2 Customer No M202 assigned seat 5,3 with turn around time of 24
+00:24 M1 Serving Customer No M102 with response time of 0
+00:25 H0 Customer No H001 arrived
+00:25 H0 Serving Customer No H001 with response time of 0
+00:25 L2 Customer No L203 arrived
+00:25 L2 Serving Customer No L203 with response time of 0
+00:26 L1 Customer No L102 assigned seat 8,9 with turn around time of 26
+00:26 M3 Customer No M302 assigned seat 5,4 with turn around time of 26
+00:26 H0 Customer No H001 assigned seat 0,0 with turn around time of 26
+00:27 L4 Customer No L403 assigned seat 8,8 with turn around time of 27
+00:28 L3 Customer No L304 assigned seat 8,7 with turn around time of 28
+00:28 L4 Customer No L404 arrived
+00:28 M1 Customer No M102 assigned seat 5,5 with turn around time of 28
+00:28 L4 Serving Customer No L404 with response time of 0
+00:29 M2 Customer No M203 arrived
+00:29 M2 Serving Customer No M203 with response time of 0
+00:29 L2 Customer No L203 assigned seat 8,6 with turn around time of 29
+00:32 L6 Customer No L602 arrived
+00:32 L1 Customer No L103 arrived
+00:32 L1 Serving Customer No L103 with response time of 0
+00:32 L6 Serving Customer No L602 with response time of 0
+00:32 L4 Customer No L404 assigned seat 8,5 with turn around time of 32
+00:33 L5 Customer No L502 arrived
+00:33 H0 Customer No H002 arrived
+00:33 L5 Serving Customer No L502 with response time of 0
+00:33 H0 Serving Customer No H002 with response time of 0
+00:33 M2 Customer No M203 assigned seat 5,6 with turn around time of 33
+00:34 L6 Customer No L603 arrived
+00:34 L4 Customer No L405 arrived
+00:34 L4 Serving Customer No L405 with response time of 0
+00:35 M1 Customer No M103 arrived
+00:35 M1 Serving Customer No M103 with response time of 0
+00:35 H0 Customer No H002 assigned seat 0,1 with turn around time of 35
+00:36 L5 Customer No L503 arrived
+00:36 M2 Customer No M204 arrived
+00:36 M2 Serving Customer No M204 with response time of 0
+00:37 L1 Customer No L103 assigned seat 8,4 with turn around time of 37
+00:38 M1 Customer No M103 assigned seat 5,7 with turn around time of 38
+00:38 L6 Customer No L602 assigned seat 8,3 with turn around time of 38
+00:38 L5 Customer No L502 assigned seat 8,2 with turn around time of 38
+00:39 M3 Customer No M303 arrived
+00:39 M3 Serving Customer No M303 with response time of 0
+00:39 L6 Serving Customer No L603 with response time of 5
+00:39 L5 Serving Customer No L503 with response time of 3
+00:39 L4 Customer No L405 assigned seat 8,1 with turn around time of 39
+00:39 M2 Customer No M204 assigned seat 5,8 with turn around time of 39
+00:41 M3 Customer No M303 assigned seat 5,9 with turn around time of 41
+00:42 L3 Customer No L305 arrived
+00:42 L3 Serving Customer No L305 with response time of 0
+00:43 L5 Customer No L503 assigned seat 8,0 with turn around time of 43
+00:44 L6 Customer No L604 arrived
+00:45 L1 Customer No L104 arrived
+00:45 L6 Customer No L603 assigned seat 7,9 with turn around time of 45
+00:45 L1 Serving Customer No L104 with response time of 0
+00:45 L5 Customer No L504 arrived
+00:45 L5 Serving Customer No L504 with response time of 0
+00:46 L6 Serving Customer No L604 with response time of 2
+00:48 L6 Customer No L605 arrived
+00:49 L3 Customer No L305 assigned seat 7,8 with turn around time of 49
+00:50 H0 Customer No H003 arrived
+00:50 H0 Serving Customer No H003 with response time of 0
+00:50 L5 Customer No L504 assigned seat 7,7 with turn around time of 50
+00:51 M3 Customer No M304 arrived
+00:51 M3 Serving Customer No M304 with response time of 0
+00:51 H0 Customer No H003 assigned seat 0,2 with turn around time of 51
+00:51 L6 Customer No L604 assigned seat 7,6 with turn around time of 51
+00:52 M1 Customer No M104 arrived
+00:52 L6 Serving Customer No L605 with response time of 4
+00:52 L1 Customer No L104 assigned seat 7,5 with turn around time of 52
+00:52 H0 Customer No H004 arrived
+00:52 M1 Serving Customer No M104 with response time of 0
+00:52 H0 Serving Customer No H004 with response time of 0
+00:53 L2 Customer No L204 arrived
+00:53 L5 Customer No L505 arrived
+00:53 L2 Serving Customer No L204 with response time of 0
+00:53 L1 Customer No L105 arrived
+00:53 L5 Serving Customer No L505 with response time of 0
+00:53 L1 Serving Customer No L105 with response time of 0
+00:54 M1 Customer No M104 assigned seat 6,0 with turn around time of 54
+00:54 H0 Customer No H005 arrived
+00:54 H0 Customer No H004 assigned seat 0,3 with turn around time of 54
+00:55 M3 Customer No M304 assigned seat 6,1 with turn around time of 55
+00:55 H0 Serving Customer No H005 with response time of 1
+00:57 M1 Customer No M105 arrived
+00:57 M1 Serving Customer No M105 with response time of 0
+00:57 L2 Customer No L205 arrived
+00:57 H0 Customer No H005 assigned seat 0,4 with turn around time of 57
+00:57 M3 Customer No M305 arrived
+00:57 L2 Customer No L204 assigned seat 7,4 with turn around time of 57
+00:57 M3 Serving Customer No M305 with response time of 0
+00:58 L6 Customer No L605 assigned seat 7,3 with turn around time of 58
+00:58 L2 Serving Customer No L205 with response time of 1
+00:59 M2 Customer No M205 arrived
+00:59 M2 Serving Customer No M205 with response time of 0
+00:59 L5 Customer No L505 assigned seat 7,2 with turn around time of 59
+00:59 L1 Customer No L105 assigned seat 7,1 with turn around time of 59
+00:60 M1 Ticket Sale Closed. Customer No M105 Leaves
+00:60 M3 Ticket Sale Closed. Customer No M305 Leaves
+00:60 L2 Ticket Sale Closed. Customer No L205 Leaves
+00:60 M2 Ticket Sale Closed. Customer No M205 Leaves
+
+
+Final Concert Seat Chart
+========================
+
+H001        	H002        	H003        	H004        	H005        	-           	-           	-           	-           	-           
+-           	-           	-           	-           	-           	-           	-           	-           	-           	-           
+-           	-           	-           	-           	-           	-           	-           	-           	-           	-           
+-           	-           	-           	-           	-           	-           	-           	-           	-           	-           
+-           	-           	-           	-           	-           	-           	-           	-           	-           	-           
+M201        	M301        	M101        	M202        	M302        	M102        	M203        	M103        	M204        	M303        
+M104        	M304        	-           	-           	-           	-           	-           	-           	-           	-           
+-           	L105        	L505        	L605        	L204        	L104        	L604        	L504        	L305        	L603        
+L503        	L405        	L502        	L602        	L103        	L404        	L203        	L304        	L403        	L102        
+L402        	L303        	L202        	L401        	L501        	L302        	L201        	L601        	L301        	L101        
+
+
+
+=============================
+Multi-threaded Ticket Sellers
+Stat for N = 5
+==============================
+
+ =============================================================
+
+|   | No of Customers | Got Seat | Returned | Throughput|
+
+ =============================================================
+
+| H |               5 |        5 |        0 | 0.08 
+| M |              15 |       12 |        3 | 0.20 
+| L |              30 |       29 |        1 | 0.48 
+ =============================================================
+
+ -----------------------------------------------
+|    | Avg response Time | Avg turnaround time| (in simulation time units) 
+ ------------------------------------------------
+|   H  | 0.20          | 44.60 		|
+|   M  | 0.00          | 25.60 		|
+|   L  | 1.27          | 31.73 		|
+ ------------------------------------------------
+
+Process finished with exit code 0
